@@ -1,0 +1,10 @@
+C:\Users\ilabsdeveloper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\serviceBroker.csprojAssemblyReference.cache
+C:\Users\ilabsdeveloper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ilabsdeveloper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\serviceBroker.csproj.GenerateResource.cache
+C:\Users\ilabsdeveloper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\serviceBroker.csproj.CoreCompileInputs.cache
+C:\Users\ilabsdeveloper\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ilabsdeveloper\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ilabsdeveloper\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ilabsdeveloper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ilabsdeveloper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ilabsdeveloper\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
